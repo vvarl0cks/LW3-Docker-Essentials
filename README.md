@@ -1,4 +1,4 @@
-## Docker Essentials | Frenzoid https://learnweb3.io/teams/frenzoid   
+## Docker Essentials | [Frenzoid](https://learnweb3.io/teams/frenzoid)   
 
 Docker is used by most protocol engineers to easily host and test nodes, and much of Web2 for deploying and managing other kinds of services!   
 
